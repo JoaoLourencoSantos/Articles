@@ -1,4 +1,4 @@
-# Memorial Descritivo da Graduação em Engenharia de software na PUC Minas (2019 - 2023)
+# Memorial Descritivo da Graduação em Engenharia de software na PUC Minas (2019 - 2022)
 
 João Marcos Lourenço dos Santos
 
