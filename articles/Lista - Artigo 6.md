@@ -1,10 +1,6 @@
-`No início do fchamento, você deve incluir, o título do Artigo sobre o qual o fichamento está sendo feito, exemplo:`
+# Accept or Not? An Empirical Study on Analyzing the Factors that Affect the Outcomes of Modern Code Review?
 
-# How Do Software Developers Use GitHub Actions to Automate Their Workflows?
-
-`Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
-
-Kinsman, Timothy, et al. "How do software developers use GitHub Actions to automate their workflows?." 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR). IEEE, 2021.arXiv preprint arXiv:[2103.12224](https://arxiv.org/abs/2103.12224)
+D. Wang, Q. Wang, J. Wang and L. Shi, "Accept or Not? An Empirical Study on Analyzing the Factors that Affect the Outcomes of Modern Code Review?," 2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS), 2021, pp. 946-955, doi: 10.1109/QRS54544.2021.00104. (https://ieeexplore.ieee.org/abstract/document/9724868)
 
 ## 1. Fichamento de Conteúdo
 

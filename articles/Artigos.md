@@ -46,8 +46,8 @@
 ## 13. Survey on Pains and Best Practices of Code Review - 2021
     L. Dong et al., "Survey on Pains and Best Practices of Code Review," 2021 28th Asia-Pacific Software Engineering Conference (APSEC), 2021, pp. 482-491, doi: 10.1109/APSEC53868.2021.00055. (https://ieeexplore.ieee.org/document/9711975)
 
-## 14. What's bothering developers in code review? - 2022
-    E. Söderberg, L. Church, J. Börstler, D. C. Niehorster and C. Rydenfält, "What's bothering developers in code review?," 2022 IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2022, pp. 341-342, doi: 10.1109/ICSE-SEIP55303.2022.9793977. (https://ieeexplore.ieee.org/document/9793977)
+## 14. Accept or Not? An Empirical Study on Analyzing the Factors that Affect the Outcomes of Modern Code Review? - 2021
+    D. Wang, Q. Wang, J. Wang and L. Shi, "Accept or Not? An Empirical Study on Analyzing the Factors that Affect the Outcomes of Modern Code Review?," 2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS), 2021, pp. 946-955, doi: 10.1109/QRS54544.2021.00104. (https://ieeexplore.ieee.org/abstract/document/9724868)
  
 ## 15. Code reviews do not find bugs: how the current code review best practice slows us down - 2015
     Jacek Czerwonka, Michaela Greiler, and Jack Tilford. 2015. Code reviews do not find bugs: how the current code review best practice slows us down. In Proceedings of the 37th International Conference on Software Engineering - Volume 2 (ICSE '15). IEEE Press, 27–28. (https://dl.acm.org/doi/10.5555/2819009.2819015)
