@@ -8,10 +8,10 @@ O artigo se trata de uma pesquisa qualitativa com o intuito de identificar e ent
   
 ## 2. Fichamento Bibliográfico 
 
-* _Code Review_ (Revisão de Código) é descrito pelo autor como um processo de avaliação de código de um desenvolvedor do ponto de vista de outros desenvolvedores (página 1).
-* _Modern Code Review_ (Revisão de Código Moderna) é um processo de code review que tem como base o uso de ferramentas, e o assincronismo,  é muito utilizado nos projetos de código aberto (página 1).
-* _Cognitive Empathy_ (Empatia Cognitiva) retratada no texto como a capacidade de entender o ponto de vista de outras pessoas (página 1).
-* _Career Development_ (Desenvolvimento de carreira) diz respeito ao desenvolvimento individual de cada programador, relativo à habilidades e conhecimentos adquiridos (página 1).
+* _Code Review_ (Revisão de Código) é descrito pelo autor como um processo de avaliação de código de um desenvolvedor do ponto de vista de outros desenvolvedores. (página 1)
+* _Modern Code Review_ (Revisão de Código Moderna) é um processo de code review que tem como base o uso de ferramentas, e o assincronismo,  é muito utilizado nos projetos de código aberto. (página 1)
+* _Cognitive Empathy_ (Empatia Cognitiva) retratada no texto como a capacidade de entender o ponto de vista de outras pessoas. (página 1)
+* _Career Development_ (Desenvolvimento de carreira) diz respeito ao desenvolvimento individual de cada programador, relativo à habilidades e conhecimentos adquiridos. (página 1)
 
 ## 3. Fichamento de Citações 
 
