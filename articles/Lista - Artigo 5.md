@@ -1,20 +1,28 @@
-# Survey on Pains and Best Practices of Code Review
+# Code Review is just reviewing code? A qualitative study with practitioners in industry
 
-L. Dong et al., "Survey on Pains and Best Practices of Code Review," 2021 28th Asia-Pacific Software Engineering Conference (APSEC), 2021, pp. 482-491, doi: 10.1109/APSEC53868.2021.00055. (https://ieeexplore.ieee.org/document/9711975)
+Atacílio Cunha, Tayana Conte, and Bruno Gadelha. 2021. Code Review is just reviewing code? A qualitative study with practitioners in industry. In Brazilian Symposium on Software Engineering (SBES '21). Association for Computing Machinery, New York, NY, USA, 269–274. (https://doi.org/10.1145/3474624.3477063)
 
 ## 1. Fichamento de Conteúdo
 
-`Aqui deve-se incluir uma análise geral do artigo em um parágrafo de  8 a 15 linhas. É um texto corrido nas palavras da pessoa que está fazendo o fichamento (não deve ter cópia literal de conteúdo do artigo). Pode conter opinião do leitor a partir do texto. Idealmente deve mencionar o contexto tratado pelo artigo, o problema que ele tenta resolver, o(s) método(s) que ele emprega e o(s) resultado(s) que obtém. O texto deve ser uma forma simples que resume o que se entendeu do artigo. Exemplo:`
-
-
+O artigo se trata de uma pesquisa qualitativa com o intuito de identificar e entender os desafios e oportunidades que estão em torno do processo de MCR (do inglês Modern Code Review) dentro da indústria  de _software_. Este, se concentrou em uma única questão de pesquisa: Como é a experiência moderna de revisão de código no setor de desenvolvimento de software?. A partir disso, coletaram dados de empresas da região onde a pesquisa foi feita, bem como a disponibilização da mesma na plataforma do _Linkedin_. Destes, selecionaram 106 participantes para analisar suas respostas de forma mais profunda, agrupando-os em faixa etária, tempo de experiência e senioridade. Após a coleta destes resultados, buscaram analisar as respostas em referência à três aspectos: _Code Standards and Best Practices_ (Padrões de código e práticas), _Cognitive Empathy_ (Empatia cognitiva), _Career Development_ (Desenvolvimento de carreira). Assim constataram que, muitos dos entrevistados constatam afirmaram que o _code review_ tem grande importância para a transferência do conhecimento acerca de padrões e boas práticas relativas ao código, constatando grandes aprendizados durante o processo de revisão. Além disso, constataram que uma parte muito importante do processo é a empatia, de se colocar no lugar do outro e buscar entender a visão de quem realizou as alterações, isto pois favorece a compreensão, padronização e nivelamento da equipe à medida que as revisões geram troca de conhecimento. Por fim, constataram que o processo de revisão é grande influenciador na carreira dos desenvolvedores, isto pois a troca de conhecimento é mútua, e muito dos entrevistados, com foco naqueles de menor senioridade, vêem o processo como uma forma de absorver e ter um maior contato com pessoas mais experientes. Para trabalhos futuros, pretendem se aprofundar nos aspectos de qualidade, e também como obter melhores ambientes para desenvolvimento através do processo de _code review_.   
+  
 ## 2. Fichamento Bibliográfico 
 
-`Nesta parte, ideias e conceitos que aparecem no artigo devem ser organizados e descritos com as palavras do leitor, e, idealmente, devem ser indicadas as páginas onde aparecem no texto. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
-* _GitHub Actions_ (GitHub Actions) é uma plataforma de integração contínua e entrega contínua (CI/CD) que visa permitir a automação de fluxos de trabalho, como compilação, execução de testes e publicação de versões (página 1).
+* _Code Review_ (Revisão de Código) é descrito pelo autor como um processo de avaliação de código de um desenvolvedor do ponto de vista de outros desenvolvedores (página 1).
+* _Modern Code Review_ (Revisão de Código Moderna) é um processo de code review que tem como base o uso de ferramentas, e o assincronismo,  é muito utilizado nos projetos de código aberto (página 1).
+* _Cognitive Empathy_ (Empatia Cognitiva) retratada no texto como a capacidade de entender o ponto de vista de outras pessoas (página 1).
+* _Career Development_ (Desenvolvimento de carreira) diz respeito ao desenvolvimento individual de cada programador, relativo à habilidades e conhecimentos adquiridos (página 1).
 
 ## 3. Fichamento de Citações 
 
-`Aqui devem ser adicionadas as frases mais importantes que aparecem no artigo. Deve ser uma transcrição exata de como estão escritas no artigo, devem ficar entre aspas. Esse fichamento é importante para que possa identificar facilmente como o autor do artigo descreveu um conceito, teoria, método, resultado etc. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
-* _"Understanding and anticipating the effects of adopting such kind of technology is important for planning and management"_ 
+* _"Code review is essentially the process of assessing code made by a developer from the perspective of others"_ 
+* _"Therefore, this process ensures that identified errors are resolved as close as possible to the time the codes were developed"_ 
+* _"Code review was first established in 1976 by Fagan [9] as a systematic process carried out from groups where codes are inspected along their lines to identify errors beforehand"_
+* _"The participants state that MCR is a means to provide 'better alignment with the project architecture'"_ 
+* _"Therefore, this work presents that the MCR process is not only reviewing in code but also that there are phenomena within its context that favor the sharing of knowledge given its application in the software development process."_ 
+* _"The opportunity to receive feedback from a developer with more seniority favors the development of several skills."_
+* _"'The exchange of knowledge turns out to be very beneficial and the final product is benefited as a result'"_
+* _"'The code review process allows you to level the technical knowledge among the team, generating learning for the reviewer and the revised'"_
+* _"The MCR process can help to instruct new developers to learn about the quality metrics of the team or project they are participating in"_
+* _"The findings pointed out and discussed in this work can help companies to see in the MCR process an opportunity to develop people"_
+ 
