@@ -11,7 +11,7 @@ O artigo se trata de uma análise quantitativa que busca maneiras de melhorar a 
 * _MCR_ (Modern Code Review) descrito como uma das práticas mais importantes de garantia de qualidade de um _software_. Este, é um processo de revisão de código baseado em ferramentas, que pode integrar com o processo de desenvolvimento de _software_. (página 1)
 * _Patch acceptance_ (Aceitação de alterações) conjunto de alterações consideradas aceitáveis seguindo padrões de qualidade, e sendo aprovada durante a revisão de código. (página 1)
 * _OpenAFS_ (OpenAFS) é uma implementação de código aberto do sistema de arquivos distribuído Andrew, a qual foi utilizada para mineração de dados sobre a revisão de código. (página 2)
-* _Gerrit_ (Gerrit) é uma ferramenta de revisão de código para projetos baseados no controle de versionamento _Git_, onde é possível avaliar as modificações de código de um determinado projeto, aprovando e reprovando-as. Este é amplamente utilizado por organizações de _software_ de código aberto, como o Android e Eclipse. (página 3)
+* _Gerrit_ (Gerrit) é uma ferramenta de revisão de código para projetos baseados no controle de versionamento _Git_, onde é possível avaliar as modificações de código de um determinado projeto, aprovando e reprovando-as. Este, é amplamente utilizado por organizações de _software_ de código aberto, como o Android e Eclipse. (página 3)
 
 ## 3. Fichamento de Citações 
 
