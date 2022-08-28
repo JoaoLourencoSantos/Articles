@@ -8,7 +8,7 @@ O artigo se trata de uma pesquisa quantitativa baseada na análise da ferramenta
 ## 2. Fichamento Bibliográfico 
 
 * _GitHub Actions_ (GitHub Actions) é uma plataforma de integração contínua e entrega contínua (CI/CD) que visa permitir a automação de fluxos de trabalho, como compilação, execução de testes e publicação de versões. (página 1)
-* _Continuous Integration_ (Integração contínua) é a prática de automatizar a integração de alterações de código de vários contribuidores em um único projeto de software. (página 1)
+* _Continuous Integration_ (Integração contínua) é a prática de automatizar a integração de alterações de código de vários contribuidores em um único projeto de _software_. (página 1)
 * _Workflows_ (Fluxo de Trabalho) é um método que organiza um determinado fluxo de trabalho em um passo a passo lógico é compatível com seu objetivo final. (página 2)
 * _Utilities_ (Utilitários) são ações para automatizar ações repetitivas, e úteis para ações principais, como leitura de arquivos, substituição de expressões regulares e outras. (página 5)
 * _Early adopters_ (Primeiros adotantes) refere-se a um indivíduo ou grupo de usuários que estão abertos à experimentação de novos produtos ou features. (página 9)

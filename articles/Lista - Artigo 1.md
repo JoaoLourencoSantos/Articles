@@ -7,7 +7,7 @@ O artigo se trata de um estudo quantitativo e qualitativo, ressaltando a import�
 
 ## 2. Fichamento Bibliográfico 
 
-* _Code Review_ (Revisão de Código) definido como o processo de code review é um importante mecanismo para prevenir bugs em projetos de software. (página 1)
+* _Code Review_ (Revisão de Código) definido como o processo de code review é um importante mecanismo para prevenir bugs em projetos de _software_. (página 1)
 * _Taxonomy_ (Taxonomia) é uma disciplina biológica que define os grupos com base em características comuns e realiza a nomenclatura destes grupos. (página 1)
 * _Coalescence_ (Coalescência) é uma palavra utilizada para aferir um ponto de relação entre dois fatores, utilizado para identificá-lo sobre code review e documentação. (página 1)
 * _Diff Chunks_ (Pedaços de diferença) termo utilizado para representar os trechos de código com alguma mudança evidenciados durante o processo de code review.  (página 2)
